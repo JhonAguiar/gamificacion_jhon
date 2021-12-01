@@ -1,0 +1,49 @@
+header{
+    top: 0px;
+    left: 0px;
+    background-color: white;
+    height: 65px;
+    border-bottom: 2px solid #ddd;
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+}
+
+.ele{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.img-ele{
+    background-color: #ccc;
+    width: 45px;
+    height: 45px;
+    border-radius: 100%;
+    text-align: center;
+    margin:5px;
+}
+
+.txt-ele , .exp-ele{
+    margin-top:15px
+}
+
+.puntaje{
+    font-family: cursive;
+    font-style:oblique;
+    font-weight:bolder;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    border-top: 3px solid #ddd;
+    color: white;
+    text-align: center;
+    height: 80px;
+    display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  }

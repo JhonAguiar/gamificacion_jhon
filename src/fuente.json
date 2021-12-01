@@ -1,0 +1,2923 @@
+{
+    "preguntas":[
+        {
+            "distribucion" : [
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Meta",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Vichada",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cauca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Amazonas",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Amazonas.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Antioquia",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Quindio",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Choco",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Santander",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Antioquia.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Huila",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Boyaca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Arauca",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Casanare",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Arauca.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Guajira",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Bolivar",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Atlantico",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Amazonas",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Atlantico.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Huila",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Bogota D.C",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Tolima",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Norte de Santander",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Bogotá.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Valle del Cauca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Risaralda",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Bolivar",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Norte de Santander",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Bolivar.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Cauca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Huila",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Sucre",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Boyacà",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Boyaca.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Caldas",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Santander",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Risaralda",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Atlàntico",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Caldas.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Chocò",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Guaviare",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Putumayo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caquetà",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Caqueta.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Casanare",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Vichada",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Nariño",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "La Guajira",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Casanare.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Casanare",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cauca",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Tolima",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Valle del Cauca",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Cauca.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "San Andrès y Providencia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Magdalena",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cesar",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Còrdoba",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Cesar.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "La Guajira",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Bolìvar",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Guainìa",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Choco",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Choco.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Còrdoba",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Vaupès",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Meta",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Risaralda",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Cordoba.svg"
+                },                
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Cundinamarca",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Bogotá D.C",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Antioquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Quindio",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Cundinamarca.svg"
+                },                
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Vichada",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Guainìa",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Casanare",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Meta",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Guainia.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Amazonas",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Quindìo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Guaviare",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Santander",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Guaviare.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Caldas",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Norte de Santader",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Arauca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Huila",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Huila.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "La Guajira",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Bolivar",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cesar",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caquetà",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/la-guajira.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Chocò",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Magdalena",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Norte de Santander",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Bogotà",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Magdalena.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Amazonas",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cundinamarca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Meta",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Tolima",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Meta.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Putumayo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Quindìo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Huila",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Nariño",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Nariño.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Norte de Santader",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Santader",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Arauca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Casanare",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Norte de santander.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Vaupès",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Putumayo",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Còrdoba",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caquetà",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Putumayo.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Boyacà",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Risaralda",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Quindìo",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Antioquia",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Quindio.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Cundinamarca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Atlàntico",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Antioquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Risaralda",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Risaralda.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "San Andres y Providencia",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "La Guajira",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Sucre",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cesar",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/San Andres y Providencia.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Nariño",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Santander",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Valle del Cauca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Tolima",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Santander.svg"
+                },             
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Meta",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Sucre",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Atlantico",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Risaralda",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Sucre.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Huila",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Arauca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Tolima",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Meta",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Tolima.svg"
+                },      
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Cauca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Antioquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Guaviare",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Valle del Cauca",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Valle del cauca.svg"
+                },    
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Vaupes",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Putumayo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Amazonas",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caquetà",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Vaupes.svg"
+                },
+                {
+                    "enunciado" : "A que departamento pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Guainìa",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Vichada",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Meta",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Sucre",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Departamentos/Vichada.svg"
+                }                   
+                
+                
+                
+                
+            ]
+        },
+        {
+            "regiones" : [
+                {
+                    "enunciado" : "A que región pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Andina",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Orinoquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caribe",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Insular",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Regiones/Insular.svg"
+                },
+                {
+                    "enunciado" : "A que región pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Caribe",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Andina",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Pacifica",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Amazonica",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Regiones/Andina.svg"
+                },
+                {
+                    "enunciado" : "A que región pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Pacifica",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Andina",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Amazonica",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caribe",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Regiones/Caribe.svg"
+                },
+                {
+                    "enunciado" : "A que región pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Andina",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Orinoquia",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Amazonica",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Pacifica",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Regiones/Orinoquia.svg"
+                },
+                {
+                    "enunciado" : "A que región pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Pacifica",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Amazonica",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Andina",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Orinoquia",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Regiones/Amazonica.svg"
+                },
+                {
+                    "enunciado" : "A que región pertenece esta imagen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Pacifica",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Insular",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Orinoquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caribe",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : true,
+                    "imagen" : "/Regiones/Pacifica.svg"
+                },
+                {
+                    "enunciado" : "Qué departamentos conforman la región Andina?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Norte de Santander, Santander, Antioquia, Boyacá, Huila, Tolima, Quindío, Risaralda y Caldas",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Antioquia, Boyacá, Cundinamarca, Choco, Cauca, Valle del Cauca y Nariño",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cundinamarca, Córdoba, Meta, Boyacá, Huila, Valle del Cauca, Quindío y Caldas",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Norte de Santander, Santander, Boyacá, Meta, Huila, Tolima, Caldas y Risaralda",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Qué departamentos conforman la región Caribe?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Guajira, Guainía, Bolívar, Cundinamarca, Antioquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Guajira, Magdalena, Atlántico, Cesar, Sucre, Bolívar, Córdoba",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Guajira, Santander, Norte de Santander, Cesar, Sucre, Bolívar",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Guajira, Antioquia, Choco, Putumayo, Cesar, Cauca, Arauca",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Qué departamentos conforman la región Orinoquia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Arauca, Casanare, Vichada y Meta",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Amazonas, Guainía, Meta, Vaupés",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Arauca, Cauca, Caquetá, Casanare",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Arauca, Casanare, Vaupés, y Meta",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Qué departamentos conforman la región Amazónica?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Amazonas, Vichada, Meta, Guainía, Caquetá y Putumayo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Amazonas, Guainía, Meta, Vaupés",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Amazonas, Vaupés, Guainía, Guaviare, Caquetá y Putumayo",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Amazonas, Cundinamarca, Guainía, Guaviare, Caquetá y Nariño",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Qué departamentos conforman la región Pacífica?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Nariño, Quindío, Huila y Valle del Cauca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Chocó, Cauca, Valle del Cauca y Nariño",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Nariño, Cauca, Risaralda y Chocó",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Tolima, Cauca, Chocó y Valle del Cauca",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Qué departamentos hacen parte de la región Insular?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "San Andrés, Providencia y Antioquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "San Andrés, Chocó y Providencia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "San Andrés, Providencia y Santa Catalina",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "San Andrés, Providencia y Putumayo",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿En cuantas regiones se divide Colombia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "6",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "8",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "5",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "4",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuántas cordilleras atraviesan la región Andina?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "1",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "2",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "3",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "4",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Con que región limita al norte la región Andina?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Caribe",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Orinoquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Pacífica",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Amazónica",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Con que región limita al noreste la región Andina?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Orinoquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Pacífica",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Amazónica",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Ninguna",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Con que regiónes limita al noreste la región Amazónica?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Andina y Caribe",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Andina y Orinoquia",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Pacífica y Andina",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caribe y Orinoquia",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Con que región limita al sur la región Caribe?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Amazónica",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Pacífica",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Orinoquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Andina",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuáles son las islas que tienen más territorio dentro de la región insular?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Malpelo y Gorgona",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "San Andrés y Providencia",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Malpelo y Santa Catalina",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "San Andrés y Gorgona",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Con que región limita al sur la región Orinoquía?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Amazónica",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Pacífica",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Insular",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Andina",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Con que región limita al oeste la región Orinoquía?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Insular",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caribe",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Insular",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Andina",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Con que región limita al noreste la región Pacífica?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Orinoquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Andina",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Amazónica ",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caribe",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Con que región limita al este la región Pacífica?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Caribe",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Andina",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Amazónica ",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Orinoquia",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál de estas Islas pertenece al océano Caribe?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Malpelo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Gorgona",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Santa Catalina ",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Gorgonilla",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuáles de estos ritmos pertenece a la región Caribe?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Cumbia",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Currulao",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Bambuco",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Torbellino",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál de estos ritmos pertenece a la región Andina?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Patacoré",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cumbia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Bambuco",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Currulao",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál de estos platos gastronómicos pertenece a la región caribe?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Tamal",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Bandeja Paisa",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Mote de Queso",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Empanadas de Pipián",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál de estos platos gastronómicos pertenece a la región pacifica?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Carimañola",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Aborrajado",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Ajiaco",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Sancocho",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál de estos platos gastronómicos pertenece a la región Andina?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Butifarra",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Mamona",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Bollo de yuca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Lechona",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál de estos platos gastronómicos no pertenece a la región Andina?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Lechona",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Mondongo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Sancocho",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Ajiaco",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál de estos climas es el predominante en la región pacifica?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Clima Tropical Húmedo",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Clima Árido Cálido",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Clima Tropical Seco",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Clima Semiárido Cálido",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es la capital del departamento del Guainía?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Mitú",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Inírida",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Puerto Carreño",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Mocoa",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                }
+            ]
+        },
+        {
+            "sectores" : [
+                {
+                    "enunciado" : "En que sectores economicos se divide Colombia según la división clasica?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Agricola, Telecomunicaciones y Minero",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Minero, Telecomunicaciones y Avicola",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Agricola, Industrial y Prestación de servicios",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Minero, Industrial y Prestación de servicios",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Segun el tipo de actividad economica ,cuantos sectores tiene la economia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "6",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "8",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "10",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "9",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cual de estas opciones no es un sector de la economia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Energetico",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Computación",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Transporte",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Comunicaciones",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Que actividades estan relacionadas el sector primario?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "la obtención de bienes y productos que provienen de la naturaleza",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Convertir la materia prima en un producto que se pueda consumir",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Ofrecer o prestar un servicio",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Ninguno",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Que actividades pertenecen al sector primario?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Agricultura, artesania, industria , pesca, medicina",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Agricultura, ganaderia, pesca, mineria, flores",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Artesania, industria, fuentes de energia, medicina, pesca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Pesca , mineria, enseñanza, hosteleria, medicina",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Que actividades pertenecen al sector secundario?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Artesania, Fuentes de Energia, industria",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Medicina, Artesania, Industria",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Artesania, mineria, Industria",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Enseñanza, Artesania, Industria",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Que actividades pertenecen al sector terciario?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Artesania, Fuentes de Energia, industria",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Enseñanza, Industria, Mineria",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Artesania, Fuentes de Energia, Mineria",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Enseñanza, Medicina , Hosteleria",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Qué papel toma Colombia en el proceso de productivo de los vehículos?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Ensamble",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Fabricación",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Venta de Materia Prima",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Ninguna de las anteriores",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuáles son los principales socios comerciales de Colombia? ",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Peru - Estados Unidos",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Japon - China",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Chile - Brasil",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "China - Estados Unidos",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es la flor colombiana con mayor demanda en el exterior? ",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Orquidea",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Girasol",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Rosa",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Tulipan",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Qué utilidad se le puede dar a las esmeraldas?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Fuente de Combustible",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Creación joyas y accesorios",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Creación productos electronicos",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Ninguna de las anteriores",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿El préstamo de dinero para realizar comprar a que sector de la economía pertenece?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Agrícola",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Construcción",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Minero y Energético",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Financiero",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿La piña, mandarina, aguacate y café a que sector económico hacen parte dentro de la economía de Colombia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Financiero",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Transporte",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Agrícola",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Telecomunicaciones",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿La producción de textiles para realizar prendas de ropa a que sector económico hace parte?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Transporte",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Construcción",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Minero y Energético",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Industrial",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿El uso de la conexión a internet a que sector económico hace parte en Colombia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Comunicaciones",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Agrícola",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Industrial",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Minero y Energético",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es el producto comestible insignia que produce Colombia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Aguacate",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Café",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Banano",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Naranja",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es el producto textil insignia que produce Colombia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Sombrero vueltiao",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Mochilas",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Gafas",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Todas las anteriores",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuáles son las piedras preciosas que se pueden encontrar en Colombia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Esmeralda, platino, plata",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Grafito, arenisca y mármol",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Esmeralda, Grafito y mármol",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Esmeralda , Diamante y Lapizlazuli",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es el nombre de la actividad que se dedica a la crianza de peces?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Agricultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Avicultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Picicultura",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Porcicultura",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es el nombre de la actividad que se dedica a la crianza de abejas?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Porcicultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Apicultura",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Avicultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Picicultura",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es el nombre de la actividad que se dedica a la crianza de Cerdos?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Porcicultura",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Avicultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Apicultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Agricultura",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es el nombre de la actividad que se dedica a la crianza de Cerdos?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Porcicultura",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Avicultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Apicultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Agricultura",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es el nombre de la actividad que se dedica al cultivo de flores?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Silvicultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Agricultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Apicutura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Floricultura",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es el nombre de la actividad que se dedica a la gestion de bosques forestales?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Porcicultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Acuicultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Silvicultura",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Agricultura",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es el nombre de la actividad que realizan las personas durante sus viajes?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Hosteleria",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Agricultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Turismo",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Ganaderia",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es el nombre de la actividad que se dedica ala extracción de minerales?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Apicultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Agricultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Ganaderia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Mineria",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál es el nombre de la actividad que se dedica ala extracción de minerales?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Apicultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Agricultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Ganaderia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Mineria",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cual seria el sector cuaternario de la economía?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "El de mineria y extracción de recursos",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "El de trabajo de la tierra",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Encargado de ofrecer y prestar servicios",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Todo lo que tiene que ver con tecnología y telecomunicaciones",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuáles de las siguientes actividades pertenece al sector primario?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Turismo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Agricultura",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Biotecnologia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Industria",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "¿Cuál de las siguientes profesiones pertenece al sector cuaternario?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Ingeniero Civil",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Licenciado en Ciencias de la Educación",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Licenciado en Sistemas Informáticos",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Oficial de Policía",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Relacionado al ganado",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Agropecuario",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Agro",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Pecuario",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Ninguna de las anteriores",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                }
+            ]
+        },
+        {
+            "economia" : [
+
+                {
+                    "enunciado" : "En qué zonas de Colombia se realiza la extracción de petróleo?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Valle del Cauca y Choco",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "La Guajira y Putumayo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Region Andina y Caribe",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Llanos Orientales y Cordillera Oriental",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cuáles son los departamentos de Colombia en dónde se realiza la extracción de Carbón?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Cundinamarca",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Amazonía",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Sucre",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Nariño",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cuál de estas zonas es conocida por su proceso productivo del café?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Guajira",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Amazonas",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caldas",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Nariño",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "En cual de estos departamentos de Colombia se practica la extracción de oro?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Caqueta , Vichada",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Antioquia, Bolivar",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Atlántico, Nariño",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cundinamarca, Guainia",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Que zonas de colombia son conocidas por el cultivo y siembra de arroz?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Llanos orientales y Tolima",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Antioquia y arauca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Huila y Valle de Cauca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Pasto y Leticia",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cuáles son los departamentos de Colombia que realizan la producción de papa?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Risaralda y Guaviare",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Santanderes y Casanare",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Antioquia y Cundinamarca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Boyacá y Nariño",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cuáles son las zonas ganaderas más grande en Colombia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Guajira",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Antioquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cordoba",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Vaupes",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cual de las regiones de colombia se caracteriza por la ganaderia extensiva?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Caribe",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Orinoquia",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Andina",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Pacifica",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cual de estos cultivos es caracteristico de la región andina?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Cacao",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Tomate de Arbol",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Algodón",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "trigo",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cual es la región con menor explotación de recursos debido a que esta protegida?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Andina",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caribe",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Amazonia",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Orinoquia",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "cuales son los pisos térmicos de Colombia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "páramo, glacial, júpiter, verano y frio",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "verano, primavera, otono, invierno y calido",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "cálido, templado, frío, páramo y glacial",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "todas las anteriores",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Los productos que se cultivan en el piso térmico frío son?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "papa, maíz y trigo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Naranja, coco y sandia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cebada Abas y Frijol",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Solo A y B son correctas",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cuantos pisos termicos existen en Colombia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "4",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "7",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "6",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "5",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "En que piso termico podemos encontrar los frailejones?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Glacial",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Paramo",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Calido",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Templado",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cual de estos animales habita en el piso termico frio en Colombia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Oso polar",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Iguana",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Oso de anteojos",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Armadillo",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "En cual de estos pisos térmicos se utilizan chaquetas y guantes?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Frio",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Templado",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Caliodo",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Ninguno de los anteriores",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cuál es la capital de Colombia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Medellin",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cali",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Bogotá",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Barranquilla",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Colombia posee costas sobre dos ocenanos ¿Cualés son ?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Pacífico y caribe",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Pacífico y atlántico",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Atlántico y Artico",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Atlántico y Caribe",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Al territorio colombiano lo atraviesa la cordillera de ?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Los Andes",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Los Urales",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Los Alpes",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Los Apalaches",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Qué piso termico corresponde con alturas superiores a los 4.000 metros sobre el mar?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Glacial",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Frio",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Calido",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Selva",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Qué piso termico esta sobre los 3.000 y 4.000 metros sobre el mar?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Bosque Humedo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Paramo",
+                            "correcta" : true   
+                        },
+                        {
+                            "respuesta" : "Glacial",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Desierto",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cual es la región con mas movimiento economico del pais?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Antioquia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Cundinamarca",
+                            "correcta" : false   
+                        },
+                        {
+                            "respuesta" : "Meta",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Bogotá D.C",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Con que paises limita Colombia al sur?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Venezuela, perú y ecuador",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Chile, Argentina y Perú",
+                            "correcta" : false   
+                        },
+                        {
+                            "respuesta" : "Brasil, Perú y ecuador",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Panama, Venezuela y Ecuador",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : " Que tipos de recursos naturales existen?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Inmutables y no inmutables",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Renovables y No renovables",
+                            "correcta" : true   
+                        },
+                        {
+                            "respuesta" : "Perecederos y no perecederos",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Determinados e indeterminados",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cual de estos recursos no es un recurso No Renovable?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Petróleo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Carbón",
+                            "correcta" : false   
+                        },
+                        {
+                            "respuesta" : "Arena",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "plantas",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cual es la principal fuente de ingresos de la región insular?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "pesca",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Turismo",
+                            "correcta" : true   
+                        },
+                        {
+                            "respuesta" : "Ganaderia",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Agricultura",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cual es la principal fuente de ingresos de la región Pacifica?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "pesca",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Mineria",
+                            "correcta" : false   
+                        },
+                        {
+                            "respuesta" : "Agricultura",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Comunicaciones",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Que departamentos conforman el eje cafetero Colombiano?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Caldas, Antioquia, Caqueta, Meta , Chocó",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Quindio, Huila, Cundinamarca, Risaralda , Santander",
+                            "correcta" : false   
+                        },
+                        {
+                            "respuesta" : "Risaralda, Caldas,Quindio, Tolima, Antioquia, Valle del Cauca",
+                            "correcta" : true
+                        },
+                        {
+                            "respuesta" : "Cundinamarca, Antioquia, Tolima, Caldas, Risaralda, Huila",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cual es la capital del Departamento del Meta?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Manizales",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Villavicencio",
+                            "correcta" : true   
+                        },
+                        {
+                            "respuesta" : "Mitú",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Monteria",
+                            "correcta" : false
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                },
+                {
+                    "enunciado" : "Cual es la capital del departamento de Antioquia?",
+                    "respuestas" : [
+                        {
+                            "respuesta" : "Quibdo",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Pereira",
+                            "correcta" : false   
+                        },
+                        {
+                            "respuesta" : "Cali",
+                            "correcta" : false
+                        },
+                        {
+                            "respuesta" : "Medellin",
+                            "correcta" : true
+                        }
+                    ],
+                    "tipo" : false,
+                    "imagen" : ""
+                }
+            ]
+        }
+    ]
+}
